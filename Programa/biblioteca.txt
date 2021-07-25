@@ -1,0 +1,114 @@
+Contigo en la distancia,Carla Guelfenbein,t
+Clases de literatura (Berkeley),Julio Cortazar,f
+Rayuela,Julio Cortazar,t
+La mente nueva del Emperador,Roger Penrose,f
+Siete breves lecciones sobre fisica,Carlo Rovelli,f
+El Orden del tiempo,Carlo Rovelli,f
+Juego de Tronos,George R.R. Martin,t
+Choque de Reyes,George R.R. Martin,f
+Herejes,G. K. Chesterton,f
+Relatos de Belcebu a su nieto II,G.I. Gurdjieff,t
+Relatos de Belcebu a su nieto III,G.I. Gurdjieff,f
+El coraje de la desesperanza,Slavoj Zizek,t
+Problemas en el Paraiso,Slavoj Zizek,f
+Pedir lo Imposible,Slavoj Zizek,t
+El tunel,Ernesto Sabato,t
+Lea este libro si desea tomar buenas fotografias,Henry Carroll,f
+Los amantes de Estocolmo,Roberto Ampuero,f
+Quien mato a Cristian Kustermann?,Roberto Ampuero,f
+Conversacion en la Catedral,Mario Vargas Llosa,f
+Discurso del Metodo,Rene Descartes,t
+La voz del Silencio,Helena Blavatsky,t
+14 lecciones sobre filosofia yogui y ocultismo oriental,Ramacharaka,t
+Mis lecturas del Majabharata y el ramayama,Vivekananda,f
+El taror adivinatorio,Papus,f
+Las mil y una noches ocultistas,Mario Roso de Luna,f
+Las estancias del Dzyan,Helena Blavatsky,f
+El Zohar (Libro de los Esplandores?),Eliphas Levi,f
+Fenomenologia del Espiritu,G.W. Hegel,f
+Kant y el problema de la Metafisica,Martin Heidegger,f
+En defensa de la Intolerancia,Slavoj Zizek,f
+Sobre la Violencia,Hannah Arendt,f
+Pedir lo Imposible,Slavoj Zizek,f
+O Grande Gatsby,F.Scott Fitzgerald,f
+Pedro Paramo. El llano en llamas.,Juan Rulfo,f
+Apologia de Socrates,Platon,t
+Fausto,J.W. Goethe,f
+El hombre que era Jueves,G.K. Chesterton,f
+Camino de Servidumbre,Friedrich Hayek,f
+Electrodinamica Cuantica,Richard Feinman,f
+El universo en una cascara de nuez,Stephen Hawking,f
+Leviathan,Hobbes,f
+Sobre heroes y tumbas,Ernesto Sabato,t
+Informe sobre ciegos,Ernesto Sabato,t
+Teoria de la Medida,Jaime San Martin,f
+Contragolpe Absoluto,Slavoj Zizek,f
+Porque no saben lo que hacen,Slavoj Zizek,f
+Menos que nada,Slavoj Zizek,f
+Bienvenidos al desierto de lo real,Slavoj Zizek,t
+El acoso de las Fantasias,Slavoj Zizek,t
+En defensa de las causas perdidas,Slavoj Zizek,f
+La dictadura,Jorge Baradit,f
+Historia secreta de Chile,Jorge Baradit,f
+Fuego y Sangre,George R.R. Martin,f
+Labradores; peones y proletarios,Gabriel Salazar,f
+La mentira noble,Carlos Peña,f
+La naturaleza del espacio y del tiempo,Stephen Hawking y Roger Penrose,f
+Relatos de Belcebu a su nieto I,G.I. Gurdjieff,t
+El arte de la guerra,Sun Tzu,t
+El amor en los tiempos del Colera,Gabriel Garcia Marquez,t
+Cronica de una muerte anunciada,Gabriel Garcia Marquez,t
+Veinte Petalos,Cristian Medel,t
+Querido Nadie,Berly Doberty,t
+Las Chicas de Alambre,Jordi Sierra i Fabra,t
+Noche de Viernes,Jordi Sierra i Fabra,t
+El chile perplejo,Alfredo Jocelyn-Holt,f
+El albergue de las mujeres tristes,Marcela Serrano,f
+La permancia de lo negativo,Slavoj Zizek,f
+La vida secreta de las plantas,Peter Tompkins y Christopher Bird,f
+El sublime objeto de la ideologia,Slavoj Zizek,f
+Antologia de cuentos hispanoamericanos,Mario Rodriguez Fernandez,f
+Emilia y la dama negra,Jaqueline Balcelis y Ana Maria Guiraldes,t
+Hamlet,William Shakespeare,f
+La Odisea,Homero,f
+El lazarillo de Tormes,Anonimo,t
+La vida es sueño,Pedro Calderon de la Barca,f
+El Principito,Antoine de Saint-Exupery,t
+La metaformosis y otros relatos,Franz Kafka,t
+La insoportable levedad del ser,Milan Kundera,f
+Los Miserables,Victor Hugo,f
+Miguel Strogoff,Julio Verne,f
+Paula,Isabel Allende,f
+Juan Salvador Gaviota,Richard Bach,t
+Niebla,Miguel de Unamuno,f
+El lugar mas bonito del mundo,Ann Cameron,t
+The Great Gatsby,F. Scott Fitzgerald,f
+Las Cuitas del joven Werther,J.W. Goethe,t
+Autopoiesis. Origenes de una idea.,Francisco Varela,f
+Einstein para perplejos,Jose Edelstein y Andres Gomberoff,f
+Lecciones sobre la Estetica,G.W. Hegel,f
+Historia chilena del siglo XX,Varios Autores,t
+El Mundo de Sofia,Jostein Gaarder,t
+Quien se ha llevado mi queso?,Spencer Johnson,t
+Narraciones extraordinarias,Edgar Allan Poe,t
+Edipo Rey. Antigona. Electra.,Sofocles,f
+Cien años de Soledad,Gabriel Garcia Marquez,t
+El origen de las Especies,A. Oparin,f
+Tao Te King,Lao Tse,f
+Siddharta,Hermann Hesse,t
+Revolucionarios,Eric Hobsbawm,f
+El arte de amar,Eric Fromm,f
+Alicia en el pais de las maravillas,Lewis Carroll,f
+Great tales and poems of Edgar Allan Poe,Edgar Allan Poe,f
+La estructura de las revoluciones cientificas,Thomas Kunh,f
+Un mundo feliz,Aldous Huxley,f
+La Peste,Albert Camus,t
+En el camino,Jack Kerouac,f
+Dialogos,Platon,f
+Narciso y Goldmundo,Hermann Hesse,t
+Critica de la Razon Pura,Immanuel Kant,f
+The book of Thoth,Aleister Crowley,f
+Siempre Demasiado y nunca Suficiente,Mary L. Trump,f
+Bhagavad Gita,Sanjaya,t
+Así hablo Zaratustra,Friedrich Nietzsche,f
+Lost in Math,Sabine Hossenfelder,f
