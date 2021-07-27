@@ -43,7 +43,7 @@ class Libro:
             linea = self.nombre+','+self.autor+','+Leido
             return linea
         
-libro = Libro('Bhagavad Gita', 'La vida')
+libro = Libro('Bhagavad Gita', 'La vida',True)
 
 
 
@@ -194,7 +194,7 @@ class Estante:
             print(libro.nombre+' ya no figura como leido en el archivo de texto!')
         else:
             print('Este libro No fue encontrado, ningún cambio realizado')
-    
+        
     def porcentajeLeidos(self, leidos=0, total=0):
         for libro in self.libros:
             if libro.leido:
@@ -244,17 +244,19 @@ class Estante:
             autor = libro.autor
             print(nombre + ' de ' + autor + '.')
     
-    def verLeidos(self):
+    def verLeidos(self,count=0):
         for libro in self.Leidos:
+            count+=1
             nombre = libro.nombre
             autor = libro.autor
-            print(nombre + ' de ' + autor + '.')
+            print(str(count)+'. '+nombre + ' de ' + autor + '.')
     
-    def verNoLeidos(self):
+    def verNoLeidos(self,count=0):
         for libro in self.noLeidos:
+            count+=1
             nombre = libro.nombre
             autor = libro.autor
-            print(nombre + ' de ' + autor + '.')        
+            print(str(count)+'. '+nombre + ' de ' + autor + '.')        
         
     def verAutores(self):
         autores = []
@@ -265,10 +267,21 @@ class Estante:
                 autores.append(libro.autor)
                 print(libro.autor)
     
+    def verAutor(self, autor, count=0):
+        assert type(autor) == str, 'Error de formato en el autor(str)'
+        busqueda = self.buscaAutor(autor) # [Bool, indices]
+        estaAutor = busqueda[0]
+        indices = busqueda[1]
+        if estaAutor:
+            numero = len(indices)
+            print('De este autor usted tiene '+str(numero)+' libros.')
+            for i in indices:
+                count+=1
+                print(str(count)+'. '+self.libros[i-1].nombre)
+        else:
+            print('No se encontraron libros de '+autor)
     
-    
-    
-prueba = Estante()
+prueba = Estante()  # Crea un estante vacio
 prueba.cargarLibrosALista('biblioteca.txt')
 prueba.verLeidos()
 print('----------------------------------------------------------------')
